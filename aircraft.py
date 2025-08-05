@@ -27,7 +27,6 @@ COLOR_OPTIONS = [
     (178, 239, 162)
     ]
     
-
 # Game clock
 clock = pygame.time.Clock()
 FPS = 60
